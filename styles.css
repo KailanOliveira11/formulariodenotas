@@ -38,6 +38,11 @@ h1 {
     color: #333;
 }
 
+h2 {
+        font-size: x-small;
+        color: #0000cd;
+    }
+
 label {
     display: block;
     margin: 10px 0 5px;
